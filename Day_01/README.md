@@ -1,20 +1,24 @@
-## Day 01 - Understanding Data Types and How to Manipulate Strings
+## Day 01 - Working with Variables in Python to Manage Data
 
-# Key Concepts Covered:
-- Understanding Python's Primitive Data Types
-- Identifying and Fixing Type Errors
-- Type Checking and Type Conversion
-- Performing Mathematical Operations in Python
-- Number Manipulation Techniques
-- Using F-Strings for Clean and Dynamic Output
+## Key Components: 
+- Printing to the Console in Python
+    - Learn how to output information to the console using print().
+- String Manipulation and Code Intelligence
+  - Explore string methods to modify and manipulate text data.
+- Debugging
+  - Tips for identifying and fixing issues in your code
+- The Python Input Function
+  - How to get user input with input() and process it.
+- Python Variables
+  - Understanding variables and how to store data.
+- Variable Naming
+  - Best practices for naming variables in Python.
 
-## Project 02 - Tip Calculator
-In this project, we'll use the concepts covered above to build a simple yet practical Tip Calculator. I have used the code to showcase the working of the system based on arithmetic priority using PEMDASLR Rule.
-PEMDAS is an acronym that stands for the order of operations in math: 
-- P: Parentheses
-- E: Exponents
-- M: Multiplication
-- D: Division
-- A: Addition
-- S: Subtraction
-- LR: The operation take place from Left to Right.
+## Project 01 - Band Name Generator
+In this project, we’ll be creating a fun and simple Python program that generates a band name based on the user's input. The user will be asked to provide two pieces of information: the name of the city they grew up in and the name of their pet. The program will then combine these two inputs to generate a creative and unique band name!
+
+This project will help you get familiar with:
+- Using the input() function to gather data from users.
+- String concatenation to combine user inputs into a single output.
+- Displaying output using the print() function.
+
