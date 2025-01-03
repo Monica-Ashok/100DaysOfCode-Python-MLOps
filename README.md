@@ -13,7 +13,7 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 ## 🔰 Beginner <b> (IN PROGRESS) </b>
 - **[Day 1](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/Day_01)**: Working with Variables in Python to Manage Data  
 - **[Day 2](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/Day_02)**: Understanding Data Types and How to Manipulate Strings  
-- **Day 3**: Control Flow and Logical Operators  
+- **[Day 3](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/Day_03)**: Control Flow and Logical Operators  
 - **Day 4**: Randomisation and Python Lists  
 - **Day 5**: Python Loops  
 - **Day 6**: Python Functions & Karel  
