@@ -26,6 +26,7 @@
 ---
 
 ## Project 03 - Treasure Island
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Monica-Ashok/100DaysOfCode-Python-MLOps/main)
 
 ### Project Description:
 I built a simple and fun text-based adventure game where players make decisions to find hidden treasure. The game uses conditional logic and control flow to determine outcomes based on player input.
