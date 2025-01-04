@@ -11,9 +11,9 @@ After gaining experience in machine learning and AI, I’ve realized the importa
 This journey is about revisiting the fundamentals, mastering the tools, and working on hands-on projects that combine Python, machine learning, MLOps, and AI engineering. Throughout this repository, you’ll find my daily coding challenges, mini-projects, and solutions as I tackle new concepts and refine my skills.
 
 ## 🔰 Beginner <b> (IN PROGRESS) </b>
-- **[Day 1](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/Day_01)**: Working with Variables in Python to Manage Data  
-- **[Day 2](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/Day_02)**: Understanding Data Types and How to Manipulate Strings  
-- **[Day 3](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/Day_03)**: Control Flow and Logical Operators  
+- **[Day 1](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_01)**: Working with Variables in Python to Manage Data  
+- **[Day 2](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_02)**: Understanding Data Types and How to Manipulate Strings  
+- **[Day 3](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_03)**: Control Flow and Logical Operators  
 - **Day 4**: Randomisation and Python Lists  
 - **Day 5**: Python Loops  
 - **Day 6**: Python Functions & Karel  
