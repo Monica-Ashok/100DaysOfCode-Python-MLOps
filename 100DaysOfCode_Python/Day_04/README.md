@@ -7,6 +7,8 @@
 - **Index Errors**: Handling user input and ensuring that only valid options are selected.
 - **Nested Lists**: While not explicitly used in this version, the game could be expanded to incorporate more complex data structures like nested lists for advanced features.
 
+---
+
 ## Project 04 - Rock, Paper and Scissors
 
 ## Overview
@@ -18,11 +20,15 @@ This is a simple implementation of the classic **Rock, Paper, Scissors** game in
 - **Paper** beats **Rock**
 - If both the player and computer choose the same option, it's a **draw**.
 
+---
+
 ## Features
 
 - **User Input Validation**: Ensures the player selects a valid option (0, 1, or 2).
 - **Random Computer Choice**: The computer's selection is random, making each game unpredictable.
 - **Clear Outcome Display**: The result of the game is clearly printed, showing both the player's and the computer's choices.
+
+---
 
 
 ## How the Game Works
@@ -31,6 +37,8 @@ This is a simple implementation of the classic **Rock, Paper, Scissors** game in
 2. The program then randomly generates a choice for the computer.
 3. The game compares the user’s choice with the computer’s choice to determine the winner.
 4. The result (win, loss, or draw) is displayed accordingly.
+
+---
 
 ### Invalid Selection Handling
 

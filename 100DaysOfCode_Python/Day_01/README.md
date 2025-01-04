@@ -1,6 +1,6 @@
 ## Day 01 - Working with Variables in Python to Manage Data
 
-## Key Components: 
+## Key Concepts Covered:
 - Printing to the Console in Python
     - Learn how to output information to the console using print().
 - String Manipulation and Code Intelligence
@@ -14,8 +14,12 @@
 - Variable Naming
   - Best practices for naming variables in Python.
 
+---
+
 ## Project 01 - Band Name Generator
 In this project, we’ll be creating a fun and simple Python program that generates a band name based on the user's input. The user will be asked to provide two pieces of information: the name of the city they grew up in and the name of their pet. The program will then combine these two inputs to generate a creative and unique band name!
+
+---
 
 This project will help you get familiar with:
 - Using the input() function to gather data from users.

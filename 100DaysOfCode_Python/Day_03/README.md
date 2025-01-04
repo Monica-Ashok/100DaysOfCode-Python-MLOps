@@ -1,4 +1,4 @@
-# Day 03 - Control Flow and Logical Operators
+~~# Day 03 - Control Flow and Logical Operators
 
 ## Key Concepts Covered:
 
@@ -51,4 +51,4 @@ I built a simple and fun text-based adventure game where players make decisions 
    - "Red" door: Burned by fire.
    - "Blue" door: Eaten by beasts.
    - "Yellow" door: Treasure found; player wins!
-   - Any other input results in a game over.
+   - Any other input results in a game over.~~
