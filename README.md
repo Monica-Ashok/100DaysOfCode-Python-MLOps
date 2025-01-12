@@ -14,8 +14,8 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 - **[Day 1](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_01)**: Working with Variables in Python to Manage Data  
 - **[Day 2](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_02)**: Understanding Data Types and How to Manipulate Strings  
 - **[Day 3](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_03)**: Control Flow and Logical Operators  
-- **Day 4**: Randomisation and Python Lists  
-- **Day 5**: Python Loops  
+- **[Day 4](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_04)**: Randomisation and Python Lists  
+- **[Day 5](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_05)**: Python Loops  
 - **Day 6**: Python Functions & Karel  
 - **Day 7**: Hangman  
 - **Day 8**: Function Parameters & Caesar Cipher  
