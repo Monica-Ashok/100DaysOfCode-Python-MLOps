@@ -18,7 +18,7 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 - **[Day 5](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_05)**: Python Loops  
 - **[Day 6](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_06)**: Python Functions & Karel  
 - **[Day 7](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_07)**: Hangman  
-- **Day 8**: Function Parameters & Caesar Cipher  
+- **[Day 8](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_08)**: Function Parameters & Caesar Cipher  
 - **Day 9**: Dictionaries, Nesting and the Secret Auction  
 - **Day 10**: Functions with Outputs  
 - **Day 11**: The Blackjack Capstone Project  
