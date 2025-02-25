@@ -19,9 +19,9 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 - **[Day 6](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_06)**: Python Functions & Karel  
 - **[Day 7](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_07)**: Hangman  
 - **[Day 8](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_08)**: Function Parameters & Caesar Cipher  
-- **Day 9**: Dictionaries, Nesting and the Secret Auction  
-- **Day 10**: Functions with Outputs  
-- **Day 11**: The Blackjack Capstone Project  
+- **[Day 9](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_09)**: Dictionaries, Nesting and the Secret Auction  
+- **[Day 10](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_10)**: Functions with Outputs  
+- **[Day 11](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_11_Capstone_01)**: The Blackjack Capstone Project  
 - **Day 12**: Scope & Number Guessing Game  
 - **Day 13**: Debugging: How to Find and Fix Errors in your Code  
 - **Day 14**: Higher Lower Game Project  
