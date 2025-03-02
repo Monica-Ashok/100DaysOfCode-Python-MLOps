@@ -20,9 +20,11 @@ def number_guess():
         difficulty = input("Choose a difficulty: Type 'easy' or 'hard': ").lower()
         if difficulty == 'hard':
             attempts = 5
+            print(f"You have {attempts} to guess the number")
             break
         elif difficulty == 'easy':
             attempts = 10
+            print(f"You have {attempts} to guess the number")
             break
         else:
             print("Invalid Input. Choose 'easy' or 'hard'.")
