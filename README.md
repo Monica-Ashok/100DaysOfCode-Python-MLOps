@@ -10,7 +10,7 @@ After gaining experience in machine learning and AI, I’ve realized the importa
 
 This journey is about revisiting the fundamentals, mastering the tools, and working on hands-on projects that combine Python, machine learning, MLOps, and AI engineering. Throughout this repository, you’ll find my daily coding challenges, mini-projects, and solutions as I tackle new concepts and refine my skills.
 
-## 🔰 Beginner <b> (IN PROGRESS) </b>
+## 🔰 Beginner <b> (Completed) </b>
 - **[Day 1](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_01)**: Working with Variables in Python to Manage Data  
 - **[Day 2](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_02)**: Understanding Data Types and How to Manipulate Strings  
 - **[Day 3](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_03)**: Control Flow and Logical Operators  
@@ -26,7 +26,7 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 - **[Day 13](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_13)**: Debugging: How to Find and Fix Errors in your Code 
 - **[Day 14](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_14)**: Higher Lower Game Project  
 
-## 📚 Intermediate <b> (NEXT IN ROW!) </b>
+## 📚 Intermediate <b> (IN PROGRESS) </b>
 - **Day 15**: Local Development Environment Setup & the Coffee Machine  
 - **Day 16**: Object Oriented Programming (OOP)  
 - **Day 17**: The Quiz Project & The Benefits of OOP  
@@ -45,7 +45,7 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 - **Day 30**: Errors, Exceptions and JSON Data: Improving the Password Manager  
 - **Day 31**: Flash Card App Capstone Project  
 
-## 👨‍💻 Intermediate+ <b> (UPCOMING) </b>
+## 👨‍💻 Intermediate+ <b> (NEXT IN ROW!) </b>
 - **Day 32**: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher  
 - **Day 33**: API Endpoints & API Parameters - ISS Overhead Notifier  
 - **Day 34**: API Practice - Creating a GUI Quiz App  
