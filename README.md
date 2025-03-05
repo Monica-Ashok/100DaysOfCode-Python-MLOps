@@ -23,7 +23,7 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 - **[Day 10](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_10)**: Functions with Outputs  
 - **[Day 11](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_11_Capstone_01)**: The Blackjack Capstone Project  
 - **[Day 12](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_12)**: Scope & Number Guessing Game  
-- **Day 13**: Debugging: How to Find and Fix Errors in your Code  
+- **[Day 13](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_13)**: Debugging: How to Find and Fix Errors in your Code  
 - **Day 14**: Higher Lower Game Project  
 
 ## 📚 Intermediate <b> (NEXT IN ROW!) </b>
