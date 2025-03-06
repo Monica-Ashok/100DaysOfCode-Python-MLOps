@@ -27,7 +27,7 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 - **[Day 14](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_14)**: Higher Lower Game Project  
 
 ## 📚 Intermediate <b> (IN PROGRESS) </b>
-- **Day 15**: Local Development Environment Setup & the Coffee Machine  
+- **[Day 15](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_15)**: Local Development Environment Setup & the Coffee Machine  
 - **Day 16**: Object Oriented Programming (OOP)  
 - **Day 17**: The Quiz Project & The Benefits of OOP  
 - **Day 18**: Turtle & the Graphical User Interface (GUI)  
