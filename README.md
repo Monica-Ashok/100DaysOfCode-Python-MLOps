@@ -29,7 +29,7 @@ This journey is about revisiting the fundamentals, mastering the tools, and work
 ## 📚 Intermediate <b> (IN PROGRESS) </b>
 - **[Day 15](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_15)**: Local Development Environment Setup & the Coffee Machine  
 - **[Day 16](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_16)**: Object Oriented Programming (OOP)  
-- **[Day 17](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day17)**: The Quiz Project & The Benefits of OOP  
+- **[Day 17](https://github.com/Monica-Ashok/100DaysOfCode-Python-MLOps/tree/main/100DaysOfCode_Python/Day_17)**: The Quiz Project & The Benefits of OOP  
 - **Day 18**: Turtle & the Graphical User Interface (GUI)  
 - **Day 19**: Instances, State and Higher Order Functions  
 - **Day 20**: Build the Snake Game Part 1: Animation & Coordinates  
