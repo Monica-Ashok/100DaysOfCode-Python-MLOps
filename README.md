@@ -1,5 +1,3 @@
-# 100DaysOfCode-Python-MLOps
-
 ## 100 Days of Code: Python for MLOps
 
 This repository documents my 100 Days of Code journey focused on refreshing my Python skills, with a particular emphasis on MLOps and AI engineering. The goal is to build a strong foundation in Python programming while diving deep into the engineering aspects of deploying and scaling machine learning models in real-world applications.
