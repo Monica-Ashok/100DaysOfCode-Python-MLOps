@@ -6,7 +6,7 @@ As I work through each day of coding challenges and projects, I’ll be honing m
 
 ---
 
-## Introduction
+## Introduction 
 
 After gaining experience in machine learning and AI, I’ve realized the importance of understanding the engineering side of these fields. While I’m familiar with Python for ML, I want to refresh and strengthen my Python skills and focus on MLOps—the process of operationalizing machine learning models—and AI engineering—the end-to-end lifecycle of AI systems, from development to deployment and scaling.
 
