@@ -2,7 +2,7 @@
 
 This repository documents my 100 Days of Code journey focused on refreshing my Python skills, with a particular emphasis on MLOps and AI engineering. The goal is to build a strong foundation in Python programming while diving deep into the engineering aspects of deploying and scaling machine learning models in real-world applications.
 
-As I work through each day of coding challenges and projects, I’ll be honing my skills in Python, machine learning, and MLOps tools and frameworks. This repo serves as a log of my progress, showcasing my projects, challenges, and solutions along the way. 
+As I work through each day of coding challenges and projects, I’ll be honing my skills in Python, machine learning, and MLOps tools and frameworks. This repo serves as a log of my progress, showcasing my projects, challenges, and solutions along the way.    
 
 ---
 
